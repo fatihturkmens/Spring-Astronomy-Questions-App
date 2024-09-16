@@ -1,6 +1,6 @@
 # Spring-Astronomy-Questions-App
-Java ve Spring Boot kullanılarak, Astronomi ile ilgili sorular ve cevapların olduğu ,bir Web Uygulamasının backend projesi.
-Bu proje katmanlı mimari kullanılar, kullanıcılar için Mysql veri tabanında Astronomi ve Dünya ile ilgili çeşitli soruların olduğu , Spring boot ve Postman ile birlikte bu soruların görüntülenme,ekleme,çıkarma ve güncelleme gibi işlemlerin yapılabildiği bir Web uygulamasının backend projesidir.
+Java ve Spring Boot kullanılarak, Astronomi ile ilgili sorular ve cevapların olduğu ,bir Web uygulamasının backend projesi.
+Bu proje katmanlı mimari kullanılak, kullanıcılar için Mysql veri tabanında Astronomi ve Dünya ile ilgili çeşitli soruların olduğu , Spring Boot ve Postman ile birlikte bu soruların görüntülenme,ekleme,çıkarma ve güncelleme gibi işlemlerin yapılabildiği bir Web uygulamasının backend projesidir.
 # Kullanılan Teknolojiler
 * Java
 * Spring Boot
